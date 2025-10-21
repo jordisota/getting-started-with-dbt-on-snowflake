@@ -1,3 +1,8 @@
+
+
+
+
+
 USE ROLE accountadmin;
 
 CREATE OR REPLACE WAREHOUSE tasty_bytes_dbt_wh
